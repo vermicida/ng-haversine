@@ -1,0 +1,26 @@
+{
+  "name": "ng-haversine",
+  "version": "0.0.1",
+  "description": "ng-haversine is an AngularJS module that applies the Haversine formula to a pair of coordinates to calculate the distance between them.",
+  "author": {
+    "name": "Diego Herrera",
+    "email": "vermicida@gmail.com"
+  },
+  "homepage": "https://github.com/vermicida/ng-haversine#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vermicida/ng-haversine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vermicida/ng-haversine/issues"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "javascript",
+    "haversine",
+    "distance",
+    "coords"
+  ]
+}
